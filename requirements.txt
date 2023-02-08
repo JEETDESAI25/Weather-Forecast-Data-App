@@ -19,6 +19,7 @@ protobuf==3.20.1
 pyarrow==8.0.0
 PySimpleGUI==4.60.4
 PyYAML==6.0
+streamlit==1.11.0
 scipy==1.10.0
 selectorlib==0.16.0
 statsmodels==0.13.5
